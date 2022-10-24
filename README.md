@@ -8,7 +8,7 @@
 - 🌱 I'm ok with Linux but prefer macOS on the local machines
 - 💞️ I’m looking to collaborate on some cool project with no legacy or with a clean and reachable plan for its reducing
 - 💞️ I wiped out more than half of my GitHub stats while refactoring repositories. Shit happens, lessons learned
-- 💞️ I hate the war. I help both ukranians and russians. I have Russian citizenship, partial Ukrainian roots, Turkish residence permission, and I prefer to speak English with my kids
+- 💞️ I hate the war. I help both Ukranians and Russians. I have Russian citizenship, partial Ukrainian roots, Turkish residence permission, and I prefer to speak English with my kids
 - 📫 Reach me on [linkedin](https://www.linkedin.com/in/sergei-alimov/)
 
 <!---
