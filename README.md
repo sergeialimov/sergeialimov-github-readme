@@ -1,8 +1,8 @@
-Hello, I'm a Back-end Typescript developer with an extensive background, including Full-stack development, Engineering in Test, Team leading and a bit of DevOps practice.
+🚀 Open to New Opportunities as a Back-End TypeScript Developer 🚀
 
-The list of hands-on skills includes Node.js, TypeScript, SQL and NoSQL databases, React.js and Linux.
+Experienced Back-End TypeScript Developer with a full-stack, testing, and leadership background. Skilled in Node.js, TypeScript, SQL, NoSQL, React.js, and Linux. Actively learning Rust for tech diversification. Passionate about efficient system development and complex problem-solving.
 
-I'm always open to code-related challenges and ready to propose non-tech improvements.
+🌐 I'm open to both remote positions and relocation opportunities.
 
 <!---
 sergeialimov/sergeialimov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
